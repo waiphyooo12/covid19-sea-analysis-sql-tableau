@@ -1,45 +1,47 @@
-🦠 COVID-19 Global Data Analysis (PostgreSQL)
-📌 Summary
+# COVID-19 Impact Analysis in Southeast Asia (Focus on Thailand)
 
-This project analyzes global COVID-19 cases, deaths, and vaccination trends using PostgreSQL.
-It demonstrates my ability to clean raw data, write analytical SQL, and produce metrics ready for dashboards and decision-making — skills essential for Data Analyst / Analytics Engineer roles.
+## Project Overview
+This project analyzes COVID-19 trends across Southeast Asia with a focus on Thailand using SQL and Tableau.
 
-🎯 Business Questions Answered
+The analysis explores:
+- infection rates
+- death rates
+- vaccination progress
+- regional comparisons
 
-How severe was COVID-19 across different countries and continents?
+## Tools Used
+- MySQL
+- Tableau Public
+- VS Code
 
-What percentage of a population was infected or died from COVID-19?
+## SQL Skills Demonstrated
+- Joins
+- CTEs
+- Window Functions
+- Views
+- Aggregate Functions
+- CASE Statements
+- Data Cleaning
 
-How did global death rates change over time?
+## Tableau Dashboard Features
+- KPI cards
+- Southeast Asia map visualization
+- Country comparison charts
+- Vaccination trend analysis
+- Interactive filters
 
-How quickly did vaccination coverage grow per country?
+## Key Insights
+- Thailand maintained relatively lower death rates compared to some neighboring countries
+- Vaccination rollout accelerated significantly after 2021
+- Infection rates varied across Southeast Asia
 
-🛠 Tech Stack
+## Files Included
+- covid_analysis.sql
+- dashboard screenshot
+- CSV datasets for Tableau
 
-Database: PostgreSQL
+## Tableau Dashboard
+https://public.tableau.com/app/profile/wai.phyo.oo/viz/COVID-19ImpactAnalysisinSoutheastAsiaFocusonThailand/Dashboard1#1
 
-Query Tool: pgAdmin
-
-Language: SQL
-
-Version Control: Git & GitHub
-
-Editor: VS Code
-
-📊 Dataset
-
-Public COVID-19 datasets containing:
-
-Daily cases & deaths
-
-Population & life expectancy
-
-Vaccination counts
-
-Country & continent metadata
-
-
-
-📬 Contact
-
-If you’d like to discuss this project or my analytical approach, feel free to reach out via GitHub.
+## Author
+Wai Phyo Oo
