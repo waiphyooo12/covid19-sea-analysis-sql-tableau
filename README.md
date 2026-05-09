@@ -42,6 +42,7 @@ The analysis explores:
 
 ## Tableau Dashboard
 https://public.tableau.com/app/profile/wai.phyo.oo/viz/COVID-19ImpactAnalysisinSoutheastAsiaFocusonThailand/Dashboard1#1
+<img width="1620" height="851" alt="Screenshot 2026-05-09 at 3 57 04 AM" src="https://github.com/user-attachments/assets/91c75ba0-ee9c-4765-8814-a45f0a805ebc" />
 
 ## Author
 Wai Phyo Oo
